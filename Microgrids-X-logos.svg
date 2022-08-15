@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="64"
-   height="64"
-   viewBox="0 0 16.933333 16.933334"
+   width="288.00003"
+   height="192.00002"
+   viewBox="0 0 76.200006 50.800006"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -13,7 +13,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title14784">Microgrids.jl/m/py package logos</title>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -23,132 +28,149 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
-     showgrid="false"
+     showgrid="true"
      units="px"
      width="64px"
-     inkscape:zoom="4"
-     inkscape:cx="8.375"
-     inkscape:cy="14.25"
+     inkscape:zoom="2.3405283"
+     inkscape:cx="106.38624"
+     inkscape:cy="159.79298"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
-     inkscape:snap-center="true">
+     inkscape:current-layer="layer4"
+     inkscape:snap-center="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid1906"
        spacingx="0.26458334"
        spacingy="0.26458334"
        empspacing="8"
-       originx="0"
-       originy="0" />
+       originx="1.7717578e-06"
+       originy="1.771758e-06" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Blocks">
+     id="layer4"
+     inkscape:label="Design"
+     style="display:none">
+    <rect
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#f9f06b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect36114"
+       width="16.933334"
+       height="16.933334"
+       x="-5.9058596e-07"
+       y="-5.9058596e-07"
+       inkscape:export-filename="Microgrids-jl.png"
+       inkscape:export-xdpi="384"
+       inkscape:export-ydpi="384" />
     <path
-       style="display:inline;font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="M 4.2333335,4.2333335 12.7,12.7"
-       id="path2690"
-       sodipodi:nodetypes="cc" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path2690"
-       id="use2772"
-       transform="rotate(-90,8.4666671,8.4666672)"
-       width="100%"
-       height="100%"
-       style="display:inline;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none" />
-    <circle
-       style="display:inline;font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.250031;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       id="path2289"
-       cx="8.4666672"
-       cy="8.4666672"
-       r="0.27607659" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect1951"
-       id="use3250"
-       transform="translate(9.5250001)"
-       width="100%"
-       height="100%"
-       style="display:inline" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect1951"
-       id="use3250-5"
-       transform="translate(9.5250001,9.5250001)"
-       width="100%"
-       height="100%"
-       style="display:inline;font-variation-settings:normal;opacity:1;vector-effect:none;fill:#99c1f1;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect1951"
-       id="use3250-6"
-       transform="translate(0,9.5250001)"
-       width="100%"
-       height="100%"
-       style="display:inline" />
+       sodipodi:type="star"
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#99c1f1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path33662"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="32"
+       sodipodi:cy="32"
+       sodipodi:r1="24"
+       sodipodi:r2="12"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 56,32 20,52.78461 20,11.21539 Z"
+       transform="matrix(0.26458334,0,0,0.26458334,-1.5874991,0)"
+       inkscape:transform-center-x="-1.5875002" />
     <rect
-       style="display:inline;font-variation-settings:normal;opacity:1;fill:#99c1f1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       id="rect1951"
-       width="6.8791666"
-       height="6.8791666"
-       x="0.26458335"
-       y="0.26458335"
-       ry="1.0583334" />
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#f6d32d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect36114-7"
+       width="16.933334"
+       height="16.933334"
+       x="3.6308836e-07"
+       y="16.933334"
+       inkscape:export-filename="Microgrids-py.png"
+       inkscape:export-xdpi="384"
+       inkscape:export-ydpi="384" />
     <rect
-       style="font-variation-settings:normal;display:inline;fill:#389826;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
-       id="rect1951-6"
-       width="6.8791666"
-       height="6.8791666"
-       x="9.7895832"
-       y="0.26458335"
-       ry="1.0583334"
-       rx="1.0583334" />
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#f6d32d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect36114-7-3"
+       width="59.26667"
+       height="16.933334"
+       x="16.933334"
+       y="0"
+       inkscape:export-filename="Microgrids-jl.png"
+       inkscape:export-xdpi="384"
+       inkscape:export-ydpi="384" />
     <rect
-       style="font-variation-settings:normal;display:inline;fill:#cb3c33;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1;vector-effect:none;-inkscape-stroke:none;stop-opacity:1"
-       id="rect1951-7"
-       width="6.8791666"
-       height="6.8791666"
-       x="0.2645829"
-       y="9.7895832"
-       ry="1.0583334"
-       rx="1.0583334" />
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#f6d32d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect36114-7-3-6"
+       width="59.26667"
+       height="16.933334"
+       x="16.933334"
+       y="33.866669"
+       inkscape:export-filename="Microgrids-m.png"
+       inkscape:export-xdpi="384"
+       inkscape:export-ydpi="384" />
     <rect
-       style="display:inline;font-variation-settings:normal;fill:#306998;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#f9f06b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect36114-7-3-7"
+       width="59.26667"
+       height="16.933334"
+       x="16.933334"
+       y="16.933334"
+       inkscape:export-filename="Microgrids-py.png"
+       inkscape:export-xdpi="384"
+       inkscape:export-ydpi="384" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#f9f06b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect36114-76"
+       width="16.933334"
+       height="16.933334"
+       x="-1.5442603e-06"
+       y="33.866669"
+       inkscape:export-filename="Microgrids-m.png"
+       inkscape:export-xdpi="384"
+       inkscape:export-ydpi="384" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Gentium;-inkscape-font-specification:Gentium;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="61.383339"
+       y="21.16667"
+       id="text14264"><tspan
+         sodipodi:role="line"
+         id="tspan14262"
+         style="stroke-width:0.264583"
+         x="61.383339"
+         y="21.16667"></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Blocks"
+     style="display:inline">
+    <rect
+       style="font-variation-settings:normal;display:inline;fill:#306998;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect1951-3"
        width="6.0854168"
        height="6.0854168"
        x="3.4065104"
-       y="-8.4666672"
+       y="-19.050001"
        ry="1.0583334"
        rx="1.0583334" />
     <rect
-       style="display:inline;font-variation-settings:normal;fill:#ffd43b;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       style="font-variation-settings:normal;display:inline;fill:#ffd43b;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect1951-3-6"
        width="6.0854168"
        height="6.0854168"
        x="11.557047"
-       y="-9.0582323"
-       ry="1.0583334"
-       rx="1.0583334" />
-    <rect
-       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#9558b2;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect6841"
-       width="6.8791666"
-       height="6.8791666"
-       x="9.7895832"
-       y="9.7895832"
+       y="-19.641565"
        ry="1.0583334"
        rx="1.0583334" />
     <rect
@@ -156,84 +178,183 @@
        id="rect6841-1"
        width="6.8791666"
        height="6.8791666"
-       x="0.26458335"
-       y="0.26458335"
+       x="-4.2333336"
+       y="-19.050001"
        ry="1.0583334"
        rx="1.0583334" />
+    <g
+       id="g36404">
+      <path
+         style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 3.7041677,2.9674054 3.175,5.4992615"
+         id="path2690"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="1.5875"
+         inkscape:transform-center-y="-2.7496308" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2690"
+         inkscape:transform-center-x="-3.1750002"
+         id="use34247"
+         transform="rotate(120,6.8791677,8.4666669)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path2690"
+         inkscape:transform-center-x="1.5875001"
+         id="use34249"
+         transform="rotate(-120,6.8791677,8.4666669)"
+         width="100%"
+         height="100%"
+         inkscape:transform-center-y="2.7496307" />
+      <path
+         sodipodi:type="star"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09106;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="path34306"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="40"
+         sodipodi:cy="48"
+         sodipodi:r1="4"
+         sodipodi:r2="2.5"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 44,48 -6,3.464102 v -6.928204 z"
+         transform="matrix(0.22913593,0,0,0.22913593,-0.5050818,-2.5318581)"
+         inkscape:transform-center-x="-2.8040736" />
+      <path
+         sodipodi:type="star"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09106;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="path35809"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="40"
+         sodipodi:cy="48"
+         sodipodi:r1="4"
+         sodipodi:r2="2.5"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 44,48 -6,3.464102 v -6.928204 z"
+         transform="matrix(0.11456796,-0.19843754,-0.19843754,-0.11456796,11.256837,22.88137)"
+         inkscape:transform-center-x="0.79375016"
+         inkscape:transform-center-y="0.9779393" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path34306"
+         inkscape:transform-center-x="1.0583329"
+         id="use35811"
+         transform="rotate(120,6.4822927,8.6958023)"
+         width="100%"
+         height="100%"
+         inkscape:transform-center-y="2.2299614" />
+      <path
+         sodipodi:type="star"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09106;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="path35880"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="40"
+         sodipodi:cy="48"
+         sodipodi:r1="4"
+         sodipodi:r2="2.5"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 44,48 -6,3.464102 v -6.928204 z"
+         transform="matrix(0.11456796,0.19843754,0.19843754,-0.11456796,-8.1900412,4.3630804)"
+         inkscape:transform-center-x="1.1906246"
+         inkscape:transform-center-y="-1.6653467" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g36404"
+       id="use36851"
+       transform="translate(-8.6105379e-7,16.933334)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g36404"
+       id="use36851-4"
+       transform="translate(-8.6105379e-7,33.866667)"
+       width="100%"
+       height="100%"
+       style="display:inline" />
+    <circle
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#cb3c33;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path32944"
+       cx="3.7041678"
+       cy="2.9674053"
+       r="2.6458335" />
+    <circle
+       style="font-variation-settings:normal;display:inline;opacity:1;fill:#9558b2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="circle33388"
+       cx="13.229167"
+       cy="8.4666672"
+       r="2.6458335" />
+    <circle
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#389826;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="circle33432"
+       cx="3.7041678"
+       cy="13.965928"
+       r="2.6458335" />
+    <circle
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#306998;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path32944-2"
+       cx="3.7041698"
+       cy="19.90074"
+       r="2.6458335" />
+    <circle
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ffd43b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="circle33388-5"
+       cx="13.229169"
+       cy="25.400002"
+       r="2.6458335" />
+    <circle
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ffd43b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="circle33432-3"
+       cx="3.7041698"
+       cy="30.899261"
+       r="2.6458335" />
+    <circle
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#f5eb28;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="path32944-8"
+       cx="3.7041674"
+       cy="36.834076"
+       r="2.6458335" />
+    <circle
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#d22a20;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="circle33388-1"
+       cx="13.229165"
+       cy="42.333336"
+       r="2.6458335" />
+    <circle
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d22a20;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="circle33432-36"
+       cx="3.7041674"
+       cy="47.832596"
+       r="2.6458335" />
   </g>
   <g
      inkscape:label="Icons"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <g
-       style="display:inline;stroke-width:3.77952"
-       transform="matrix(0.26458323,0,0,0.26458323,-27.781232,5.8208345)"
-       id="g1224">
-      <circle
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         id="path1191"
-         cx="155"
-         cy="-8.0000086"
-         r="5" />
-      <rect
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         id="rect1193"
-         width="1"
-         height="16.000004"
-         x="154.5"
-         y="-16.00001" />
-      <use
-         style="stroke-width:3.77952"
-         x="0"
-         y="0"
-         xlink:href="#rect1193"
-         id="use1205"
-         transform="rotate(30,155,-8.000016)"
-         width="100%"
-         height="100%" />
-      <use
-         style="stroke-width:3.77952"
-         x="0"
-         y="0"
-         xlink:href="#rect1193"
-         id="use1207"
-         transform="rotate(60,155,-8.000016)"
-         width="100%"
-         height="100%" />
-      <use
-         style="stroke-width:3.77952"
-         x="0"
-         y="0"
-         xlink:href="#rect1193"
-         id="use1209"
-         transform="rotate(90,155,-8.000016)"
-         width="100%"
-         height="100%" />
-      <use
-         style="stroke-width:3.77952"
-         height="100%"
-         width="100%"
-         transform="rotate(120,154.99999,-8.0000151)"
-         id="use1211"
-         xlink:href="#rect1193"
-         y="0"
-         x="0" />
-      <use
-         style="stroke-width:3.77952"
-         height="100%"
-         width="100%"
-         transform="rotate(150,154.99999,-8.0000137)"
-         id="use1213"
-         xlink:href="#rect1193"
-         y="0"
-         x="0" />
-    </g>
+     style="display:inline">
     <g
        id="g2709"
        style="display:inline;fill:none;stroke:#0a0a0a;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.23151018,0,0,0.23151018,-23.018718,-2.6788813)">
+       transform="matrix(0.23151018,0,0,0.23151018,-49.056635,-30.251462)">
       <path
          sodipodi:open="true"
          sodipodi:end="1.5707963"
@@ -294,43 +415,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="use269"
-       transform="matrix(0.11200688,0,0,0.11200688,-52.387461,-49.478691)"
-       inkscape:export-filename="./wind_storage_FR.png"
-       inkscape:export-xdpi="150.03252"
-       inkscape:export-ydpi="150.03252"
-       style="display:inline">
-      <g
-         style="display:inline"
-         id="g4874"
-         transform="translate(-151.1921,60.959583)">
-        <path
-           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
-           d="m 718.12123,492.49761 v 25.29764 h 37.79527 v -25.29764 l -18.89764,-12.49763 -18.89763,12.49763"
-           id="path4868"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="/home/pierre/Documents eolien/Travaux/50 Images/wind_storage.png"
-           inkscape:export-xdpi="129.68228"
-           inkscape:export-ydpi="129.68228" />
-        <rect
-           y="497.78329"
-           x="722.6106"
-           height="9.2471447"
-           width="12.182525"
-           id="rect4870"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.755906;marker:none;enable-background:accumulate" />
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.755906;marker:none;enable-background:accumulate"
-           id="rect4872"
-           width="12.182525"
-           height="9.2471447"
-           x="739.1153"
-           y="497.78329" />
-      </g>
-    </g>
-    <g
-       transform="matrix(0.2645834,0,0,0.2645834,-20.637507,5.0270815)"
+       transform="matrix(0.2645834,0,0,0.2645834,-25.452186,-18.256252)"
        id="g1310"
        style="display:inline">
       <path
@@ -372,37 +457,227 @@
       </g>
     </g>
     <g
-       style="display:inline"
-       inkscape:export-ydpi="150.03252"
-       inkscape:export-xdpi="150.03252"
-       inkscape:export-filename="./wind_storage_FR.png"
-       transform="matrix(0.11200701,0,0,0.11200701,-61.912538,-63.937011)"
-       id="g3343">
-      <path
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
-         d="m 566.92913,591.25247 v 25.29764 h 37.79528 v -25.29764 h -37.79528"
-         id="path7966"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-filename="/home/pierre/Documents eolien/Travaux/50 Images/wind_storage.png"
-         inkscape:export-xdpi="129.68228"
-         inkscape:export-ydpi="129.68228" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3986-8"
-         d="m 590.88774,599.7858 h 7.55907"
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:export-filename="/home/pierre/Documents eolien/Travaux/50 Images/wind_storage.png"
-         inkscape:export-xdpi="129.68228"
-         inkscape:export-ydpi="129.68228" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 576.91249,596.00628 v 7.55905 m -3.77953,-3.77952 h 7.55905"
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path3990-3"
-         inkscape:export-filename="/home/pierre/Documents eolien/Travaux/50 Images/wind_storage.png"
-         inkscape:export-xdpi="129.68228"
-         inkscape:export-ydpi="129.68228" />
+       id="g4288">
+      <g
+         style="display:inline;stroke-width:3.77952"
+         transform="matrix(0.19843744,0,0,0.19843744,-27.053634,4.5549064)"
+         id="g1224">
+        <circle
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="path1191"
+           cx="155"
+           cy="-8.0000086"
+           r="5" />
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect1193"
+           width="1"
+           height="16.000004"
+           x="154.5"
+           y="-16.00001" />
+        <use
+           style="stroke-width:3.77952"
+           x="0"
+           y="0"
+           xlink:href="#rect1193"
+           id="use1205"
+           transform="rotate(30,155,-8.000016)"
+           width="100%"
+           height="100%" />
+        <use
+           style="stroke-width:3.77952"
+           x="0"
+           y="0"
+           xlink:href="#rect1193"
+           id="use1207"
+           transform="rotate(60,155,-8.000016)"
+           width="100%"
+           height="100%" />
+        <use
+           style="stroke-width:3.77952"
+           x="0"
+           y="0"
+           xlink:href="#rect1193"
+           id="use1209"
+           transform="rotate(90,155,-8.000016)"
+           width="100%"
+           height="100%" />
+        <use
+           style="stroke-width:3.77952"
+           height="100%"
+           width="100%"
+           transform="rotate(120,154.99999,-8.0000151)"
+           id="use1211"
+           xlink:href="#rect1193"
+           y="0"
+           x="0" />
+        <use
+           style="stroke-width:3.77952"
+           height="100%"
+           width="100%"
+           transform="rotate(150,154.99999,-8.0000137)"
+           id="use1213"
+           xlink:href="#rect1193"
+           y="0"
+           x="0" />
+      </g>
+      <g
+         id="use269"
+         transform="matrix(0.08400522,0,0,0.08400522,-35.983339,-38.828843)"
+         inkscape:export-filename="./wind_storage_FR.png"
+         inkscape:export-xdpi="150.03252"
+         inkscape:export-ydpi="150.03252"
+         style="display:inline">
+        <g
+           style="display:inline"
+           id="g4874"
+           transform="translate(-151.1921,60.959583)">
+          <path
+             style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
+             d="m 718.12123,492.49761 v 25.29764 h 37.79527 v -25.29764 l -18.89764,-12.49763 -18.89763,12.49763"
+             id="path4868"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc"
+             inkscape:export-filename="/home/pierre/Documents eolien/Travaux/50 Images/wind_storage.png"
+             inkscape:export-xdpi="129.68228"
+             inkscape:export-ydpi="129.68228" />
+          <rect
+             y="497.78329"
+             x="722.6106"
+             height="9.2471447"
+             width="12.182525"
+             id="rect4870"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.755906;marker:none;enable-background:accumulate" />
+          <rect
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.755906;marker:none;enable-background:accumulate"
+             id="rect4872"
+             width="12.182525"
+             height="9.2471447"
+             x="739.1153"
+             y="497.78329" />
+        </g>
+      </g>
+      <g
+         style="display:inline"
+         inkscape:export-ydpi="150.03252"
+         inkscape:export-xdpi="150.03252"
+         inkscape:export-filename="./wind_storage_FR.png"
+         transform="matrix(0.08367052,0,0,0.08367052,-45.312263,-36.562807)"
+         id="g3343">
+        <path
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
+           d="m 566.92913,591.25247 v 25.29764 h 37.79528 v -25.29764 h -37.79528"
+           id="path7966"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-filename="/home/pierre/Documents eolien/Travaux/50 Images/wind_storage.png"
+           inkscape:export-xdpi="129.68228"
+           inkscape:export-ydpi="129.68228" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3986-8"
+           d="m 590.88774,599.7858 h 7.55907"
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/pierre/Documents eolien/Travaux/50 Images/wind_storage.png"
+           inkscape:export-xdpi="129.68228"
+           inkscape:export-ydpi="129.68228" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 576.91249,596.00628 v 7.55905 m -3.77953,-3.77952 h 7.55905"
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3990-3"
+           inkscape:export-filename="/home/pierre/Documents eolien/Travaux/50 Images/wind_storage.png"
+           inkscape:export-xdpi="129.68228"
+           inkscape:export-ydpi="129.68228" />
+      </g>
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4288"
+       id="use4341"
+       transform="translate(-2.2136797e-7,16.933333)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4288"
+       id="use4341-9"
+       transform="translate(-2.2136821e-7,33.866667)"
+       width="100%"
+       height="100%"
+       style="display:inline" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.730721"
+       y="-5.5377169"
+       id="text10308"><tspan
+         sodipodi:role="line"
+         id="tspan10306"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="23.730721"
+         y="-5.5377169">Microgrid.jl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.056648"
+       y="10.743495"
+       id="text26030"><tspan
+         sodipodi:role="line"
+         id="tspan26028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="18.056648"
+         y="10.743495">Microgrids.<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan26026">jl</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.056648"
+       y="27.67683"
+       id="text26030-5"><tspan
+         sodipodi:role="line"
+         id="tspan26028-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="18.056648"
+         y="27.67683">Microgrids.py<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan26026-5" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.056648"
+       y="44.610165"
+       id="text26030-6"><tspan
+         sodipodi:role="line"
+         id="tspan26028-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="18.056648"
+         y="44.610165">Microgrids.m<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan26026-9" /></tspan></text>
+  </g>
+  <metadata
+     id="metadata14780">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Microgrids.jl/m/py package logos</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Pierre Haessig</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2022-08</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
