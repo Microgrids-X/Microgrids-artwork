@@ -31,9 +31,9 @@
      showgrid="false"
      units="px"
      width="64px"
-     inkscape:zoom="1.2641982"
-     inkscape:cx="45.087867"
-     inkscape:cy="-3.1640608"
+     inkscape:zoom="10.113586"
+     inkscape:cx="12.656243"
+     inkscape:cy="15.32592"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -287,13 +287,6 @@
          inkscape:transform-center-x="1.1906246"
          inkscape:transform-center-y="-1.6653467" />
     </g>
-    <ellipse
-       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#9b50f7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       id="path32944-2-9"
-       cx="3.7041709"
-       cy="53.767406"
-       rx="2.6458333"
-       ry="2.6458335" />
     <circle
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#linearGradient5590);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        id="circle33432-3-6"
@@ -307,7 +300,7 @@
        cy="59.26667"
        r="2.6458335" />
     <ellipse
-       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#radialGradient108957);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#radialGradient108957);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        id="ellipse108085"
        cx="3.7041709"
        cy="53.767406"
